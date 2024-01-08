@@ -1,4 +1,4 @@
-# This is Random Password Generator App
+# This is simple Random Password Generator App
 import random
 
 def generatePassword(passwordlength):
